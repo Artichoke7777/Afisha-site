@@ -89,6 +89,8 @@ main{
     border-radius: 8px;
 
     background-color: #1919190D;
+
+    cursor: pointer;
 }
 .buy{
     grid-column-start: 2;
@@ -567,6 +569,14 @@ footer{
     line-height: 140%;
     text-align: center;
     color: #FFFFFF;
-
+}
+.choiceimg{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.mainimg{
+    border-radius: 8px;
 }
 
